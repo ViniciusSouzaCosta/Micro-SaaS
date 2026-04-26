@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Qual o dano da magia Fireball?",
+    "expected_keyword": "fireball"
+  },
+  {
+    "question": "O que acontece com uma criatura paralisada?",
+    "expected_keyword": "paralyzed"
+  },
+  {
+    "question": "Como funciona vantagem e desvantagem?",
+    "expected_keyword": "advantage"
+  },
+  {
+    "question": "Qual o custo de uma longsword?",
+    "expected_keyword": "longsword"
+  },
+  {
+    "question": "Como funciona initiative?",
+    "expected_keyword": "initiative"
+  }
+]
