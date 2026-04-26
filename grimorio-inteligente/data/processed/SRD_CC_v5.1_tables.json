@@ -1,0 +1,3615 @@
+{
+  "source": "SRD_CC_v5.1.pdf",
+  "tables": [
+    {
+      "page": 3,
+      "table_index": 1,
+      "markdown": "| If you note any errors in this document, please let us know by |\n| --- |\n| emailing askdnd@wizards.com. |\n"
+    },
+    {
+      "page": 5,
+      "table_index": 1,
+      "markdown": "| Black | Acid | 5 by 30 ft. line (Dex. save) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 5,
+      "table_index": 2,
+      "markdown": "| Brass | Fire | 5 by 30 ft. line (Dex. save) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 5,
+      "table_index": 3,
+      "markdown": "| Copper | Acid | 5 by 30 ft. line (Dex. save) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 5,
+      "table_index": 4,
+      "markdown": "| Green | Poison | 15 ft. cone (Con. save) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 5,
+      "table_index": 5,
+      "markdown": "| Silver | Cold | 15 ft. cone (Con. save) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 1,
+      "markdown": "|  |  | Rage |  |  |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 2,
+      "markdown": "| 13th | +5 | Brutal Critical\n(2 dice) | 5 | +3 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 3,
+      "markdown": "| 15th | +5 | Persistent\nRage | 5 | +3 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 4,
+      "markdown": "| 17th | +6 | Brutal Critical\n(3 dice) | 6 | +4 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 5,
+      "markdown": "| 19th | +6 | Ability Score\nImprovement | 6 | +4 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 6,
+      "markdown": "| 1st | +2 | Rage,\nUnarmored\nDefense | 2 | +2 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 7,
+      "markdown": "| 3rd | +2 | Primal Path | 3 | +2 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 8,
+      "markdown": "| 5th | +3 | Extra Attack,\nFast\nMovement | 3 | +2 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 9,
+      "markdown": "| 7th | +3 | Feral Instinct | 4 | +2 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 10,
+      "markdown": "| 9th | +4 | Brutal Critical\n(1 die) | 4 | +3 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 8,
+      "table_index": 11,
+      "markdown": "| 11th | +4 | Relentless | 4 | +3 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | Spellcasting, Bardic Inspiration\n(d6) | 2 | 4 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | Bard College, Expertise | 2 | 6 | 4 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | Bardic Inspiration (d8), Font of\nInspiration | 3 | 8 | 4 | 3 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | ̶ | 3 | 10 | 4 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | Song of Rest (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | ̶ | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | Song of Rest (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | Bardic Inspiration (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | Song of Rest (d12) | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 11,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | Ability Score Improvement | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | Spellcasting, Divine Domain |  | 3 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | ̶ |  | 3 | 4 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | Destroy Undead (CR 1/2) |  | 4 | 4 | 3 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | ̶ |  | 4 | 4 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | ̶ |  | 4 | 4 | 3 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | Destroy Undead (CR 2) |  | 5 | 4 | 3 | 3 | 3 | 2 | 1 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | ̶ |  | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | ̶ |  | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | Destroy Undead (CR 4), Divine Dom\nfeature | ain | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n"
+    },
+    {
+      "page": 15,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | Ability Score Improvement |  | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 17,
+      "table_index": 1,
+      "markdown": "| 1st | bless, cure wounds |\n| --- | --- |\n"
+    },
+    {
+      "page": 17,
+      "table_index": 2,
+      "markdown": "| 5th | beacon of hope, revivify |\n| --- | --- |\n"
+    },
+    {
+      "page": 17,
+      "table_index": 3,
+      "markdown": "| 9th | mass cure wounds, raise dead |\n| --- | --- |\n"
+    },
+    {
+      "page": 17,
+      "table_index": 4,
+      "markdown": "| 5th | 1/2 or lower |  |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 17,
+      "table_index": 5,
+      "markdown": "| 11th | 2 or lower |  |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 17,
+      "table_index": 6,
+      "markdown": "| 17th | 4 or lower |  |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | Druidic, Spellcasting |  | 2 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | ̶ |  | 2 | 4 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | ̶ |  | 3 | 4 | 3 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | ̶ |  | 3 | 4 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | ̶ |  | 3 | 4 | 3 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | ̶ |  | 4 | 4 | 3 | 3 | 3 | 2 | 1 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | ̶ |  | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | ̶ |  | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | ̶ |  | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 19,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | Ability Score Improvement |  | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 20,
+      "table_index": 1,
+      "markdown": "| 2nd | 1/4 | No flying or swimming\nspeed | Wolf |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 20,
+      "table_index": 2,
+      "markdown": "| 8th | 1 | — | Giant\neagle |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 1,
+      "markdown": "| 7th | freedom of movement, locate creature |\n| --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 2,
+      "markdown": "| 3rd |  | hold person, spike growth |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 3,
+      "markdown": "| 7th |  | freedom of movement, ice s | torm |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 4,
+      "markdown": "| 3rd |  | mirror image, misty step |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 5,
+      "markdown": "| 7th |  | control water, freedom of m | ovement |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 6,
+      "markdown": "| 3rd |  | blur, silence |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 7,
+      "markdown": "| 7th |  | blight, hallucinatory terrain |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 8,
+      "markdown": "| 3rd |  | barkskin, spider climb |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 9,
+      "markdown": "| 7th |  | divination, freedom of move | ment |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 10,
+      "markdown": "| Sacred Plants and Wood |\n| --- |\n| A druid holds certain plants to be sacred, particularly alder, |\n| ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, |\n| willow, and yew. Druids often use such plants as part of a |\n| spellcasting focus, incorporating lengths of oak or yew or |\n| sprigs of mistletoe. |\n| Similarly, a druid uses such woods to make other objects, |\n| such as weapons and shields. Yew is associated with death |\n| and rebirth, so weapon handles for scimitars or sickles might |\n| be fashioned from it. Ash is associated with life and oak with |\n| strength. These woods make excellent hafts or whole |\n| weapons, such as clubs or quarterstaffs, as well as shields. |\n| Alder is associated with air, and it might be used for thrown |\n| weapons, such as darts or javelins. |\n| Druids from regions that lack the plants described here |\n| have chosen other plants to take on similar uses. For |\n| instance, a druid of a desert region might value the yucca |\n| tree and cactus plants. |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 11,
+      "markdown": "| 3rd |  | invisibility, pass without trac | e |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 12,
+      "markdown": "| 7th |  | divination, freedom of move | ment |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 13,
+      "markdown": "| 3rd |  | spider climb, spike growth |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 14,
+      "markdown": "| 7th |  | stone shape, stoneskin |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 22,
+      "table_index": 15,
+      "markdown": "| 3rd |  | acid arrow, darkness |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 23,
+      "table_index": 1,
+      "markdown": "| Druids and the Gods |\n| --- |\n| Some druids venerate the forces of nature themselves, but |\n| most druids are devoted to one of the many nature deities |\n| worshiped in the multiverse (the lists of gods in appendix PH-­‐ |\n| B include many such deities). The worship of these deities is |\n| often considered a more ancient tradition than the faiths of |\n| clerics and urbanized peoples. |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 1,
+      "markdown": "| 17th | +6 | Action Surge (two uses),\nIndomitable (three uses) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 2,
+      "markdown": "| 19th | +6 | Ability Score Improvement |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 3,
+      "markdown": "| 1st | +2 | Fighting Style, Second Wind |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 4,
+      "markdown": "| 3rd | +2 | Martial Archetype |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 5,
+      "markdown": "| 5th | +3 | Extra Attack |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 6,
+      "markdown": "| 7th | +3 | Martial Archetype feature |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 7,
+      "markdown": "| 9th | +4 | Indomitable (one use) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 8,
+      "markdown": "| 11th | +4 | Extra Attack (2) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 9,
+      "markdown": "| 13th | +5 | Indomitable (two uses) |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 24,
+      "table_index": 10,
+      "markdown": "| 15th | +5 | Martial Archetype feature |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | 1d4 | — | — | Unarmored Defense, Martial Arts |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | 1d4 | 3 | +10 ft. | Monastic Tradition, Deflect Missiles |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | 1d6 | 5 | +10 ft. | Extra Attack, Stunning Strike |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | 1d6 | 7 | +15 ft. | Evasion, Stillness of Mind |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | 1d6 | 9 | +15 ft. | Unarmored Movement improvement |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | 1d8 | 11 | +20 ft. | Monastic Tradition feature |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | 1d8 | 13 | +20 ft. | Tongue of the Sun and Moon |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | 1d8 | 15 | +25 ft. | Timeless Body |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | 1d10 | 17 | +25 ft. | Monastic Tradition feature |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 26,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | 1d10 | 19 | +30 ft. | Ability Score Improvement |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | Divine Sense, Lay on Hands |  | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | Divine Health, Sacred Oath |  | 3 | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | Extra Attack |  | 4 | 2 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | Sacred Oath feature |  | 4 | 3 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | ̶ |  | 4 | 3 | 2 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | Improved Divine Smite |  | 4 | 3 | 3 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | ̶ |  | 4 | 3 | 3 | 1 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | Sacred Oath feature |  | 4 | 3 | 3 | 2 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | ̶ |  | 4 | 3 | 3 | 3 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 30,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | Ability Score Improvement |  | 4 | 3 | 3 | 3 | 2 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 33,
+      "table_index": 1,
+      "markdown": "| 3rd |  | protection from evil and go | od, sanctuary |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 33,
+      "table_index": 2,
+      "markdown": "| 9th |  | beacon of hope, dispel mag | ic |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 33,
+      "table_index": 3,
+      "markdown": "| 17th |  | commune, flame strike |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 33,
+      "table_index": 4,
+      "markdown": "| Breaking Your Oath |\n| --- |\n| A paladin tries to hold to the highest standards of conduct, |\n| but even the most virtuous paladin is fallible. Sometimes the |\n| right path proves too demanding, sometimes a situation calls |\n| for the lesser of two evils, and sometimes the heat of |\n| emotion causes a paladin to transgress his or her oath. |\n| A paladin who has broken a vow typically seeks absolution |\n| from a cleric who shares his or her faith or from another |\n| paladin of the same order. The paladin might spend an all-­‐ |\n| night vigil in prayer as a sign of penitence, or undertake a fast |\n"
+    },
+    {
+      "page": 34,
+      "table_index": 1,
+      "markdown": "| or similar act of self-­‐denial. After a rite of confession and |\n| --- |\n| forgiveness, the paladin starts fresh. |\n| If a paladin willfully violates his or her oath and shows no |\n| sign of repentance, the consequences can be more serious. |\n| At the GM’s discretion, an impenitent paladin might be |\n| forced to abandon this class and adopt another. |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | Favored Enemy, Natural Explorer |  | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | Ranger Archetype, Primeval Aware | ness | 3 | 3 | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | Extra Attack |  | 4 | 4 | 2 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | Ranger Archetype feature |  | 5 | 4 | 3 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | ̶ |  | 6 | 4 | 3 | 2 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | Ranger Archetype feature |  | 7 | 4 | 3 | 3 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | ̶ |  | 8 | 4 | 3 | 3 | 1 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | Ranger Archetype feature |  | 9 | 4 | 3 | 3 | 2 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | ̶ |  | 10 | 4 | 3 | 3 | 3 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 35,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | Ability Score Improvement |  | 11 | 4 | 3 | 3 | 3 | 2 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 1,
+      "markdown": "| 11th | +4 | 6d6 | Reliable Talent |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 2,
+      "markdown": "| 13th | +5 | 7d6 | Roguish Archetype\nfeature |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 3,
+      "markdown": "| 15th | +5 | 8d6 | Slippery Mind |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 4,
+      "markdown": "| 17th | +6 | 9d6 | Roguish Archetype\nfeature |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 5,
+      "markdown": "| 19th | +6 | 10d6 | Ability Score\nImprovement |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 6,
+      "markdown": "| 1st | +2 | 1d6 | Expertise, Sneak Attack,\nThievesʼ Cant |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 7,
+      "markdown": "| 3rd | +2 | 2d6 | Roguish Archetype |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 8,
+      "markdown": "| 5th | +3 | 3d6 | Uncanny Dodge |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 9,
+      "markdown": "| 7th | +3 | 4d6 | Evasion |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 39,
+      "table_index": 10,
+      "markdown": "| 9th | +4 | 5d6 | Roguish Archetype\nfeature |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | ̶ | Spellcasting, Sorcerous\nOrigin | 4 | 2 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | 3 | Metamagic | 4 | 4 | 4 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | 5 | ̶ | 5 | 6 | 4 | 3 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | 7 | ̶ | 5 | 8 | 4 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | 9 | ̶ | 5 | 10 | 4 | 3 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | 11 | ̶ | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | 13 | ̶ | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | 15 | ̶ | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | 17 | Metamagic | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 42,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | 19 | Ability Score\nImprovement | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 43,
+      "table_index": 1,
+      "markdown": "| 1st | 2 |\n| --- | --- |\n"
+    },
+    {
+      "page": 43,
+      "table_index": 2,
+      "markdown": "| 3rd | 5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 43,
+      "table_index": 3,
+      "markdown": "| 5th | 7 |\n| --- | --- |\n"
+    },
+    {
+      "page": 44,
+      "table_index": 1,
+      "markdown": "| Black | Acid |\n| --- | --- |\n"
+    },
+    {
+      "page": 45,
+      "table_index": 1,
+      "markdown": "| Brass | Fire |\n| --- | --- |\n"
+    },
+    {
+      "page": 45,
+      "table_index": 2,
+      "markdown": "| Copper | Acid |\n| --- | --- |\n"
+    },
+    {
+      "page": 45,
+      "table_index": 3,
+      "markdown": "| Green | Poison |\n| --- | --- |\n"
+    },
+    {
+      "page": 45,
+      "table_index": 4,
+      "markdown": "| Silver | Cold |\n| --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | Otherworldly Patron, Pact\nMagic | 2 | 2 | 1 | 1st | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | Pact Boon | 2 | 4 | 2 | 2nd | 2 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | ̶ | 3 | 6 | 2 | 3rd | 3 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | ̶ | 3 | 8 | 2 | 4th | 4 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | ̶ | 3 | 10 | 2 | 5th | 5 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | Mystic Arcanum (6th level) | 4 | 11 | 3 | 5th | 5 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | Mystic Arcanum (7th level) | 4 | 12 | 3 | 5th | 6 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | Mystic Arcanum (8th level) | 4 | 13 | 3 | 5th | 7 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | Mystic Arcanum (9th level) | 4 | 14 | 4 | 5th | 7 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 46,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | Ability Score Improvement | 4 | 15 | 4 | 5th | 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 50,
+      "table_index": 1,
+      "markdown": "| 1st | burning hands, command |\n| --- | --- |\n"
+    },
+    {
+      "page": 50,
+      "table_index": 2,
+      "markdown": "| 3rd | fireball, stinking cloud |\n| --- | --- |\n"
+    },
+    {
+      "page": 50,
+      "table_index": 3,
+      "markdown": "| 5th | flame strike, hallow |\n| --- | --- |\n"
+    },
+    {
+      "page": 51,
+      "table_index": 1,
+      "markdown": "| Your Pact Boon |\n| --- |\n| Each Pact Boon option produces a special creature or an |\n| object that reflects your patron’s nature. |\n| Pact of the Chain. Your familiar is more cunning than a |\n| typical familiar. Its default form can be a reflection of your |\n| patron, with imps and quasits tied to the Fiend. |\n| Pact of the Blade. If you serve the Fiend, your weapon |\n| could be an axe made of black metal and adorned with |\n| decorative flames. |\n| Pact of the Tome. Your Book of Shadows could be a |\n| weighty tome bound in demon hide studded with iron, |\n| holding spells of conjuration and a wealth of forbidden lore |\n| about the sinister regions of the cosmos, a gift of the Fiend. |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 1,
+      "markdown": "| 1st | +2 | Spellcasting, Arcane Recovery | 3 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 2,
+      "markdown": "| 3rd | +2 | ̶ | 3 | 4 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 3,
+      "markdown": "| 5th | +3 | ̶ | 4 | 4 | 3 | 2 | ̶ | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 4,
+      "markdown": "| 7th | +3 | ̶ | 4 | 4 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 5,
+      "markdown": "| 9th | +4 | ̶ | 4 | 4 | 3 | 3 | 3 | 1 | ̶ | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 6,
+      "markdown": "| 11th | +4 | ̶ | 5 | 4 | 3 | 3 | 3 | 2 | 1 | ̶ | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 7,
+      "markdown": "| 13th | +5 | ̶ | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | ̶ | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 8,
+      "markdown": "| 15th | +5 | ̶ | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | ̶ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 9,
+      "markdown": "| 17th | +6 | ̶ | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 52,
+      "table_index": 10,
+      "markdown": "| 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 54,
+      "table_index": 1,
+      "markdown": "| Your Spellbook |\n| --- |\n| The spells that you add to your spellbook as you gain levels |\n| reflect the arcane research you conduct on your own, as well |\n| as intellectual breakthroughs you have had about the nature |\n| of the multiverse. You might find other spells during your |\n| adventures. You could discover a spell recorded on a scroll in |\n| an evil wizard’s chest, for example, or in a dusty tome in an |\n| ancient library. |\n| Copying a Spell into the Book. When you find a wizard |\n| spell of 1st level or higher, you can add it to your spellbook if |\n| it is of a spell level you can prepare and if you can spare the |\n| time to decipher and copy it. |\n| Copying that spell into your spellbook involves reproducing |\n| the basic form of the spell, then deciphering the unique |\n| system of notation used by the wizard who wrote it. You |\n| must practice the spell until you understand the sounds or |\n| gestures required, then transcribe it into your spellbook using |\n| your own notation. |\n| For each level of the spell, the process takes 2 hours and |\n| costs 50 gp. The cost represents material components you |\n"
+    },
+    {
+      "page": 55,
+      "table_index": 1,
+      "markdown": "| expend as you experiment with the spell to master it, as well |\n| --- |\n| as the fine inks you need to record it. Once you have spent |\n| this time and money, you can prepare the spell just like your |\n| other spells. |\n| Replacing the Book. You can copy a spell from your own |\n| spellbook into another book—for example, if you want to |\n| make a backup copy of your spellbook. This is just like |\n| copying a new spell into your spellbook, but faster and easier, |\n| since you understand your own notation and already know |\n| how to cast the spell. You need spend only 1 hour and 10 gp |\n| for each level of the copied spell. |\n| If you lose your spellbook, you can use the same |\n| procedure to transcribe the spells that you have prepared |\n| into a new spellbook. Filling out the remainder of your |\n| spellbook requires you to find new spells to do so, as normal. |\n| For this reason, many wizards keep backup spellbooks in a safe |\n| place. |\n| The Book’s Appearance. Your spellbook is a unique |\n| compilation of spells, with its own decorative flourishes and |\n| margin notes. It might be a plain, functional leather volume |\n| that you received as a gift from your master, a finely bound |\n| gilt-­‐edged tome you found in an ancient library, or even a |\n| loose collection of notes scrounged together after you lost |\n| your previous spellbook in a mishap. |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 1,
+      "markdown": "| 195,000 | 16 | +5 |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 2,
+      "markdown": "| 0 |  | 1 | +2 |\n| --- | --- | --- | --- |\n| 300 |  | 2 | +2 |\n| 900 |  | 3 | +2 |\n| 2,700 |  | 4 | +2 |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 3,
+      "markdown": "| Barbarian | Strength 13 |\n| --- | --- |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 4,
+      "markdown": "| Cleric | Wisdom 13 |\n| --- | --- |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 5,
+      "markdown": "| Fighter | Strength 13 or Dexterity 13 |\n| --- | --- |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 6,
+      "markdown": "| Paladin | Strength 13 and Charisma 13 |\n| --- | --- |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 7,
+      "markdown": "| 85,000 |  | 11 | +4 |\n| --- | --- | --- | --- |\n| 100,000 |  | 12 | +4 |\n| 120,000 |  | 13 | +5 |\n| 140,000 |  | 14 | +5 |\n| 165,000 |  | 15 | +5 |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 8,
+      "markdown": "| Rogue | Dexterity 13 |\n| --- | --- |\n"
+    },
+    {
+      "page": 56,
+      "table_index": 9,
+      "markdown": "| Warlock | Charisma 13 |\n| --- | --- |\n"
+    },
+    {
+      "page": 57,
+      "table_index": 1,
+      "markdown": "| Paladin | Light armor, medium armor, shields, simple\nweapons, martial weapons |\n| --- | --- |\n"
+    },
+    {
+      "page": 57,
+      "table_index": 2,
+      "markdown": "| Rogue | Light armor, one skill from the class’s skill list,\nthieves’ tools |\n| --- | --- |\n"
+    },
+    {
+      "page": 57,
+      "table_index": 3,
+      "markdown": "| Warlock | Light armor, simple weapons |\n| --- | --- |\n"
+    },
+    {
+      "page": 57,
+      "table_index": 4,
+      "markdown": "| Barbarian | Shields, simple weapons, | martial weapons |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 57,
+      "table_index": 5,
+      "markdown": "| Cleric | Light armor, medium arm | or, shields |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 57,
+      "table_index": 6,
+      "markdown": "| Fighter | Light armor, medium arm\nweapons, martial weapo | or, shields, simple |\n| --- | --- | --- |\n|  |  | ns |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 1,
+      "markdown": "| 1st | 2 | — | — | — | — | — | — | — | — |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 2,
+      "markdown": "| 3rd | 4 | 2 | — | — | — | — | — | — | — |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 3,
+      "markdown": "| 5th | 4 | 3 | 2 | — | — | — | — | — | — |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 4,
+      "markdown": "| 7th | 4 | 3 | 3 | 1 | — | — | — | — | — |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 5,
+      "markdown": "| 9th | 4 | 3 | 3 | 3 | 1 | — | — | — | — |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 6,
+      "markdown": "| 11th | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 7,
+      "markdown": "| 13th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 8,
+      "markdown": "| 15th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 9,
+      "markdown": "| 17th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 58,
+      "table_index": 10,
+      "markdown": "| 19th | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 59,
+      "table_index": 1,
+      "markdown": "| Common | Humans | Common |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 59,
+      "table_index": 2,
+      "markdown": "| Elvish | Elves | Elvish |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 59,
+      "table_index": 3,
+      "markdown": "| Gnomish | Gnomes | Dwarvish |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 59,
+      "table_index": 4,
+      "markdown": "| Halfling | Halflings | Common |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 59,
+      "table_index": 5,
+      "markdown": "| Abyssal | Demons | Infernal |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 59,
+      "table_index": 6,
+      "markdown": "| Draconic | Dragons, dragonborn | Draconic |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 59,
+      "table_index": 7,
+      "markdown": "| Infernal | Devils | Infernal |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 59,
+      "table_index": 8,
+      "markdown": "| Sylvan | Fey creatures | Elvish |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 1,
+      "markdown": "| 3 | I see omens in every event and action. The gods try\nto speak to us, we just need to listen |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 2,
+      "markdown": "| 5 | I quote (or misquote) sacred texts and proverbs in\nalmost every situation. |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 3,
+      "markdown": "| 7 | I’ve enjoyed fine food, drink, and high society\namong my temple’s elite. Rough living grates on me. |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 4,
+      "markdown": "| 1 | Tradition. The ancient traditions of worship and\nsacrifice must be preserved and upheld. (Lawful) |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 5,
+      "markdown": "| 3 | Change. We must help bring about the changes the\ngods are constantly working in the world. (Chaotic) |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 6,
+      "markdown": "| 5 | Faith. I trust that my deity will guide my actions. I\nhave faith that if I work hard, things will go well.\n(Lawful) |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 7,
+      "markdown": "| 1 | I would die to recover an ancient relic of my faith\nthat was lost long ago. |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 8,
+      "markdown": "| 3 | I owe my life to the priest who took me in when my\nparents died. |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 9,
+      "markdown": "| 5 | I will do anything to protect the temple where I\nserved. |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 10,
+      "markdown": "| 1 | I judge others harshly, and myself even more\nseverely. |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 11,
+      "markdown": "| 3 | My piety sometimes leads me to blindly trust those\nthat profess faith in my god. |\n| --- | --- |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 12,
+      "markdown": "| 1 | I idolize a particula\nrefer to that perso | r hero of my faith, and constantly |\n| --- | --- | --- |\n|  |  | n’s deeds and example. |\n"
+    },
+    {
+      "page": 61,
+      "table_index": 13,
+      "markdown": "| 5 | I am suspicious of strangers and expect the worst of\nthem. |\n| --- | --- |\n"
+    },
+    {
+      "page": 62,
+      "table_index": 1,
+      "markdown": "| Copper (cp) |  | 1 | 1/10 | 1/50 | 1/100 | 1/1,000 |\n| --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 62,
+      "table_index": 2,
+      "markdown": "| Electrum (ep | ) | 50 | 5 | 1 | 1/2 | 1/20 |\n| --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 62,
+      "table_index": 3,
+      "markdown": "| Platinum (pp | ) | 1,000 | 100 | 20 | 10 | 1 |\n| --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 63,
+      "table_index": 1,
+      "markdown": "| Light Armor |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 1,
+      "markdown": "| Leather |  | 10 gp |  | 11 + Dex modifier | — | — | 10 lb. |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 2,
+      "markdown": "| Medium Arm | or |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 3,
+      "markdown": "| Chain shir | t | 50 gp |  | 13 + Dex modifier (max 2) | — | — | 20 lb. |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 4,
+      "markdown": "| Breastplat | e | 400 gp |  | 14 + Dex modifier (max 2) | — | — | 20 lb. |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 5,
+      "markdown": "| Heavy Armo | r |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 6,
+      "markdown": "| Chain mai | l | 75 gp |  | 16 | Str 13 | Disadvantage | 55 lb. |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 7,
+      "markdown": "| Plate |  | 1,500 gp |  | 18 | Str 15 | Disadvantage | 65 lb. |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 8,
+      "markdown": "| Shield |  | 10 gp |  | +2 | — | — | 6 lb. |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 9,
+      "markdown": "| Light Armor |  | 1 minute | 1 minute |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 64,
+      "table_index": 10,
+      "markdown": "| Heavy Armo | r | 10 minutes | 5 minutes |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 65,
+      "table_index": 1,
+      "markdown": "| Simple Mele | e Weapons |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 1,
+      "markdown": "| Dagger |  | 2 gp | 1d4 piercing | 1 lb. | Finesse, light, thrown (range 20/60) |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 2,
+      "markdown": "| Handaxe |  | 5 gp | 1d6 slashing | 2 lb. | Light, thrown (range 20/60) |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 3,
+      "markdown": "| Light ham | mer | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (range 20/60) |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 4,
+      "markdown": "| Quarterst | aff | 2 sp | 1d6 bludgeoning | 4 lb. | Versatile (1d8) |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 5,
+      "markdown": "| Spear |  | 1 gp | 1d6 piercing | 3 lb. | Thrown (range 20/60), versatile (1d8) |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 6,
+      "markdown": "| Crossbow | , light | 25 gp | 1d8 piercing | 5 lb. | Ammunition (range 80/320), loading, two-­‐handed |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 7,
+      "markdown": "| Shortbow |  | 25 gp | 1d6 piercing | 2 lb. | Ammunition (range 80/320), two-­‐handed |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 8,
+      "markdown": "| Martial Mele | e Weapons |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 9,
+      "markdown": "| Flail |  | 10 gp | 1d8 bludgeoning | 2 lb. | — |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 10,
+      "markdown": "| Greataxe |  | 30 gp | 1d12 slashing | 7 lb. | Heavy, two-­‐handed |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 11,
+      "markdown": "| Halberd |  | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-­‐handed |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 12,
+      "markdown": "| Longswor | d | 15 gp | 1d8 slashing | 3 lb. | Versatile (1d10) |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 13,
+      "markdown": "| Morningst | ar | 15 gp | 1d8 piercing | 4 lb. | — |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 14,
+      "markdown": "| Rapier |  | 25 gp | 1d8 piercing | 2 lb. | Finesse |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 15,
+      "markdown": "| Shortswor | d | 10 gp | 1d6 piercing | 2 lb. | Finesse, light |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 16,
+      "markdown": "| War pick |  | 5 gp | 1d8 piercing | 2 lb. | — |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 17,
+      "markdown": "| Whip |  | 2 gp | 1d4 slashing | 3 lb. | Finesse, reach |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 18,
+      "markdown": "| Blowgun |  | 10 gp | 1 piercing | 1 lb. | Ammunition (range 25/100), loading |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 19,
+      "markdown": "| Crossbow | , heavy | 50 gp | 1d10 piercing | 18 lb. | Ammunition (range 100/400), heavy, loading, two-­‐handed |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 66,
+      "table_index": 20,
+      "markdown": "| Net |  | 1 gp | — | 3 lb. | Special, thrown (range 5/15) |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 1,
+      "markdown": "| Hourglass | 25 gp | 1 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 2,
+      "markdown": "| Abacus |  | 2 gp | 2 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 3,
+      "markdown": "| Ink (1 ounce bottle) | 10 gp | — |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 4,
+      "markdown": "| Alchemist’s f | ire (flask) | 50 gp | 1 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 5,
+      "markdown": "| Jug or pitcher | 2 cp | 4 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 6,
+      "markdown": "| Arrows (2 | 0) | 1 gp | 1 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 7,
+      "markdown": "| Lamp | 5 sp | 1 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 8,
+      "markdown": "| Crossbow | bolts (20) | 1 gp | 1½ lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 9,
+      "markdown": "| Lantern, hooded | 5 gp | 2 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 10,
+      "markdown": "| Antitoxin (vi | al) | 50 gp | — |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 11,
+      "markdown": "| Magnifying glass | 100 gp | — |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 12,
+      "markdown": "| Crystal |  | 10 gp | 1 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 13,
+      "markdown": "| Mess kit | 2 sp | 1 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 14,
+      "markdown": "| Rod |  | 10 gp | 2 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 15,
+      "markdown": "| Oil (flask) | 1 sp | 1 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 16,
+      "markdown": "| Wand |  | 10 gp | 1 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 17,
+      "markdown": "| Parchment (one sheet) | 1 sp | — |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 18,
+      "markdown": "| Ball bearings | (bag of 1,000) | 1 gp | 2 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 19,
+      "markdown": "| Pick, miner’s | 2 gp | 10 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 20,
+      "markdown": "| Basket |  | 4 sp | 2 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 21,
+      "markdown": "| Poison, basic (vial) | 100 gp | — |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 22,
+      "markdown": "| Bell |  | 1 gp | — |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 23,
+      "markdown": "| Pot, iron | 2 gp | 10 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 24,
+      "markdown": "| Block and ta | ckle | 1 gp | 5 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 25,
+      "markdown": "| Pouch | 5 sp | 1 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 26,
+      "markdown": "| Bottle, glass |  | 2 gp | 2 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 27,
+      "markdown": "| Ram, portable | 4 gp | 35 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 28,
+      "markdown": "| Caltrops (ba | g of 20) | 1 gp | 2 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 29,
+      "markdown": "| Robes | 1 gp | 4 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 30,
+      "markdown": "| Case, crossb | ow bolt | 1 gp | 1 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 31,
+      "markdown": "| Rope, silk (50 feet) | 10 gp | 5 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 32,
+      "markdown": "| Chain (10 fe | et) | 5 gp | 10 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 33,
+      "markdown": "| Scale, merchant’s | 5 gp | 3 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 34,
+      "markdown": "| Chest |  | 5 gp | 25 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 35,
+      "markdown": "| Shovel | 2 gp | 5 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 36,
+      "markdown": "| Clothes, com | mon | 5 sp | 3 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 37,
+      "markdown": "| Signet ring | 5 gp | — |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 38,
+      "markdown": "| Clothes, fine |  | 15 gp | 6 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 39,
+      "markdown": "| Spellbook | 50 gp | 3 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 40,
+      "markdown": "| Component | pouch | 25 gp | 2 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 41,
+      "markdown": "| Spyglass | 1,000 gp | 1 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 42,
+      "markdown": "| Druidic focus |  |  |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 43,
+      "markdown": "| Tinderbox | 5 sp | 1 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 44,
+      "markdown": "| Totem |  | 1 gp | — |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 45,
+      "markdown": "| Vial | 1 gp | — |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 46,
+      "markdown": "| Yew wand |  | 10 gp | 1 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 47,
+      "markdown": "| Whetstone | 1 cp | 1 lb. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 48,
+      "markdown": "| Flask or tank | ard | 2 cp | 1 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 49,
+      "markdown": "| Hammer |  | 1 gp | 3 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 50,
+      "markdown": "| Backpack* | 1 cubic foot/30 pounds of gear |\n| --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 51,
+      "markdown": "| Healer’s kit |  | 5 gp | 3 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 52,
+      "markdown": "| Basket | 2 cubic feet/40 pounds of gear |\n| --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 53,
+      "markdown": "| Amulet |  | 5 gp | 1 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 54,
+      "markdown": "| Bucket | 3 gallons liquid, 1/2 cubic foot solid |\n| --- | --- |\n"
+    },
+    {
+      "page": 69,
+      "table_index": 55,
+      "markdown": "| Reliquary |  | 5 gp | 2 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 1,
+      "markdown": "| Flask or tank | ard | 1 pint liquid |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 2,
+      "markdown": "| Pot, iron |  | 1 gallon liquid |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 3,
+      "markdown": "| Sack |  | 1 cubic foot/30 pounds of gear |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 4,
+      "markdown": "| Waterskin |  | 4 pints liquid |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 5,
+      "markdown": "| Artisan’s tools |  |  |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 6,
+      "markdown": "| Brewer’s supplies | 20 gp | 9 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 7,
+      "markdown": "| Equipment Packs |\n| --- |\n| The starting equipment you get from your class includes a |\n| collection of useful adventuring gear, put together in a pack. |\n| The contents of these packs are listed here. If you are buying |\n| your starting equipment, you can purchase a pack for the |\n| price shown, which might be cheaper than buying the items |\n| individually. |\n| Burglar’s Pack (16 gp). Includes a backpack, a bag of 1,000 |\n| ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a |\n| hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days |\n| rations, a tinderbox, and a waterskin. The pack also has 50 |\n| feet of hempen rope strapped to the side of it. |\n| Diplomat’s Pack (39 gp). Includes a chest, 2 cases for maps |\n| and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a |\n| lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, |\n| sealing wax, and soap. |\n| Dungeoneer’s Pack (12 gp). Includes a backpack, a |\n| crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 |\n| days of rations, and a waterskin. The pack also has 50 feet of |\n| hempen rope strapped to the side of it. |\n| Entertainer’s Pack (40 gp). Includes a backpack, a bedroll, |\n| 2 costumes, 5 candles, 5 days of rations, a waterskin, and a |\n| disguise kit. |\n| Explorer’s Pack (10 gp). Includes a backpack, a bedroll, a |\n| mess kit, a tinderbox, 10 torches, 10 days of rations, and a |\n| waterskin. The pack also has 50 feet of hempen rope |\n| strapped to the side of it. |\n| Priest’s Pack (19 gp). Includes a backpack, a blanket, 10 |\n| candles, a tinderbox, an alms box, 2 blocks of incense, a |\n| censer, vestments, 2 days of rations, and a waterskin. |\n| Scholar’s Pack (40 gp). Includes a backpack, a book of lore, |\n| a bottle of ink, an ink pen, 10 sheets of parchment, a little |\n| bag of sand, and a small knife. |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 8,
+      "markdown": "| Carpenter’s tools | 8 gp | 6 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 9,
+      "markdown": "| Cobbler’s tools | 5 gp | 5 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 10,
+      "markdown": "| Glassblower’s tools | 30 gp | 5 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 11,
+      "markdown": "| Leatherworker’s tools | 5 gp | 5 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 12,
+      "markdown": "| Painter’s supplies | 10 gp | 5 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 13,
+      "markdown": "| Smith’s tools | 20 gp | 8 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 14,
+      "markdown": "| Weaver’s tools | 1 gp | 5 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 15,
+      "markdown": "| Disguise kit | 25 gp | 3 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 16,
+      "markdown": "| Gaming set |  |  |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 17,
+      "markdown": "| Playing card set | 5 sp | — |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 18,
+      "markdown": "| Musical instrument |  |  |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 19,
+      "markdown": "| Drum | 6 gp | 3 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 20,
+      "markdown": "| Flute | 2 gp | 1 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 21,
+      "markdown": "| Lyre | 30 gp | 2 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 22,
+      "markdown": "| Pan flute | 12 gp | 2 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 23,
+      "markdown": "| Viol | 30 gp | 1 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 24,
+      "markdown": "| Poisoner’s kit | 50 gp | 2 lb. |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 70,
+      "table_index": 25,
+      "markdown": "| Vehicles (land or water) | * | * |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 71,
+      "table_index": 1,
+      "markdown": "| Camel | 50 gp | 50 ft. | 480 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 71,
+      "table_index": 2,
+      "markdown": "| Elephant | 200 gp | 40 ft. | 1,320 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 1,
+      "markdown": "| Horse, riding |  | 75 gp | 60 ft. | 480 lb. |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 2,
+      "markdown": "| 1 cp | 1 lb. of wheat |\n| --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 3,
+      "markdown": "| Pony |  | 30 gp | 40 ft. | 225 lb. |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 4,
+      "markdown": "| 5 cp | 1 lb. of salt |\n| --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 5,
+      "markdown": "| 5 sp | 1 lb. of copper or 1 sq. yd. of cotton cloth |\n| --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 6,
+      "markdown": "| 2 gp | 1 lb. of cinnamon or pepper, or one sheep |\n| --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 7,
+      "markdown": "| Barding |  | ×4 | ×2 |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 8,
+      "markdown": "| 5 gp | 1 lb. of silver or 1 sq. yd. of linen |\n| --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 9,
+      "markdown": "| Carriage |  | 100 gp | 600 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 10,
+      "markdown": "| 15 gp | 1 lb. of saffron or one ox |\n| --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 11,
+      "markdown": "| Chariot |  | 250 gp | 100 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 12,
+      "markdown": "| 500 gp | 1 lb. of platinum |\n| --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 13,
+      "markdown": "| Saddle |  |  |  |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 14,
+      "markdown": "| Military |  | 20 gp | 30 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 15,
+      "markdown": "| Riding |  | 10 gp | 25 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 16,
+      "markdown": "| Sled |  | 20 gp | 300 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 17,
+      "markdown": "| Wagon |  | 35 gp | 400 lb. |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 18,
+      "markdown": "| Galley | 30,000 gp | 4 mph |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 19,
+      "markdown": "| Longship | 10,000 gp | 3 mph |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 20,
+      "markdown": "| Sailing ship | 10,000 gp | 2 mph |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 72,
+      "table_index": 21,
+      "markdown": "| Wretched | — |\n| --- | --- |\n"
+    },
+    {
+      "page": 73,
+      "table_index": 1,
+      "markdown": "| Poor |  | 2 sp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 73,
+      "table_index": 2,
+      "markdown": "| Comfortable |  | 2 gp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 73,
+      "table_index": 3,
+      "markdown": "| Aristocratic |  | 10 gp minimum |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 73,
+      "table_index": 4,
+      "markdown": "| Self-Sufficiency |\n| --- |\n| The expenses and lifestyles described here assume that you |\n| are spending your time between adventures in town, availing |\n| yourself of whatever services you can afford—paying for food |\n| and shelter, paying townspeople to sharpen your sword and |\n| repair your armor, and so on. Some characters, though, |\n| might prefer to spend their time away from civilization, |\n| sustaining themselves in the wild by hunting, foraging, and |\n| repairing their own gear. |\n| Maintaining this kind of lifestyle doesn’t require you to |\n| spend any coin, but it is time-­‐consuming. If you spend your |\n| time between adventures practicing a profession, you can |\n| eke out the equivalent of a poor lifestyle. Proficiency in the |\n| Survival skill lets you live at the equivalent of a comfortable |\n| lifestyle. |\n"
+    },
+    {
+      "page": 73,
+      "table_index": 5,
+      "markdown": "| Ale |  |\n| --- | --- |\n"
+    },
+    {
+      "page": 73,
+      "table_index": 6,
+      "markdown": "| Mug | 4 cp |\n| --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 1,
+      "markdown": "| Bread, loaf |  | 2 cp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 2,
+      "markdown": "| Coach cab |  |\n| --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 3,
+      "markdown": "| Inn stay (per | day) |  |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 4,
+      "markdown": "| Within a city | 1 cp |\n| --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 5,
+      "markdown": "| Poor |  | 1 sp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 6,
+      "markdown": "| Skilled | 2 gp per day |\n| --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 7,
+      "markdown": "| Comforta | ble | 8 sp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 8,
+      "markdown": "| Messenger | 2 cp per mile |\n| --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 9,
+      "markdown": "| Aristocrat | ic | 4 gp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 10,
+      "markdown": "| Ship’s passage | 1 sp per mile |\n| --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 11,
+      "markdown": "| Squalid |  | 3 cp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 12,
+      "markdown": "| Modest |  | 3 sp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 13,
+      "markdown": "| Wealthy |  | 8 sp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 14,
+      "markdown": "| Meat, chunk |  | 3 sp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 74,
+      "table_index": 15,
+      "markdown": "| Common | (pitcher) | 2 sp |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 76,
+      "table_index": 1,
+      "markdown": "| 12–13 | +1 |\n| --- | --- |\n"
+    },
+    {
+      "page": 76,
+      "table_index": 2,
+      "markdown": "| 16–17 | +3 |\n| --- | --- |\n"
+    },
+    {
+      "page": 76,
+      "table_index": 3,
+      "markdown": "| 20–21 | +5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 76,
+      "table_index": 4,
+      "markdown": "| 24–25 | +7 |\n| --- | --- |\n"
+    },
+    {
+      "page": 76,
+      "table_index": 5,
+      "markdown": "| 28–29 | +9 |\n| --- | --- |\n"
+    },
+    {
+      "page": 76,
+      "table_index": 6,
+      "markdown": "| 1 | −5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 76,
+      "table_index": 7,
+      "markdown": "| 4–5 | −3 |\n| --- | --- |\n"
+    },
+    {
+      "page": 76,
+      "table_index": 8,
+      "markdown": "| 8–9 | −1 |\n| --- | --- |\n"
+    },
+    {
+      "page": 77,
+      "table_index": 1,
+      "markdown": "| Very easy | 5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 77,
+      "table_index": 2,
+      "markdown": "| Medium | 15 |\n| --- | --- |\n"
+    },
+    {
+      "page": 77,
+      "table_index": 3,
+      "markdown": "| Very hard | 25 |\n| --- | --- |\n"
+    },
+    {
+      "page": 80,
+      "table_index": 1,
+      "markdown": "| Hiding |\n| --- |\n| The GM decides when circumstances are appropriate for |\n| hiding. When you try to hide, make a Dexterity (Stealth) |\n| check. Until you are discovered or you stop hiding, that |\n| check’s total is contested by the Wisdom (Perception) check |\n| of any creature that actively searches for signs of your |\n| presence. |\n| You can’t hide from a creature that can see you clearly, |\n| and you give away your position if you make noise, such as |\n| shouting a warning or knocking over a vase. |\n| An invisible creature can always try to hide. Signs of its |\n| passage might still be noticed, and it does have to stay quiet. |\n| In combat, most creatures stay alert for signs of danger all |\n| around, so if you come out of hiding and approach a |\n"
+    },
+    {
+      "page": 81,
+      "table_index": 1,
+      "markdown": "| creature, it usually sees you. However, under certain |\n| --- |\n| circumstances, the GM might allow you to stay hidden as you |\n| approach a creature that is distracted, allowing you to gain |\n| advantage on an attack roll before you are seen. |\n| Passive Perception. When you hide, there’s a chance |\n| someone will notice you even if they aren’t searching. To |\n| determine whether such a creature notices you, the GM |\n| compares your Dexterity (Stealth) check with that creature’s |\n| passive Wisdom (Perception) score, which equals 10 + the |\n| creature’s Wisdom modifier, as well as any other bonuses or |\n| penalties. If the creature has advantage, add 5. For |\n| disadvantage, subtract 5. For example, if a 1st-­‐level character |\n| (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 |\n| modifier) and proficiency in Perception, he or she has a |\n| passive Wisdom (Perception) of 14. |\n| What Can You See? One of the main factors in |\n| determining whether you can find a hidden creature or |\n| object is how well you can see in an area, which might be |\n| lightly or heavily obscured, as explained in \"The |\n| Environment.” |\n"
+    },
+    {
+      "page": 84,
+      "table_index": 1,
+      "markdown": "| Fast | 400\nfeet | 4\nmiles | 30\nmiles | −5 penalty to passive\nWisdom (Perception)\nscores |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 84,
+      "table_index": 2,
+      "markdown": "| Slow | 200\nfeet | 2\nmiles | 18\nmiles | Able to use stealth |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 90,
+      "table_index": 1,
+      "markdown": "| Combat Step by Step |\n| --- |\n| 1.Determine surprise. The GM determines whether anyone |\n| involved in the combat encounter is surprised. |\n| 2.Establish positions. The GM decides where all the |\n| characters and monsters are located. Given the |\n| adventurersʼ marching order or their stated positions in |\n| the room or other location, the GM figures out where the |\n| adversaries are̶how far away and in what direction. |\n| 3.Roll initiative. Everyone involved in the combat encounter |\n| rolls initiative, determining the order of combatantsʼ turns. |\n| 4.Take turns. Each participant in the battle takes a turn in |\n| initiative order. |\n| 5.Begin the next round. When everyone involved in the |\n| combat has had a turn, the round ends. Repeat step 4 until |\n| the fighting stops. |\n"
+    },
+    {
+      "page": 92,
+      "table_index": 1,
+      "markdown": "| Interacting with Objects Around You |\n| --- |\n| Here are a few examples of the sorts of thing you can do in |\n| tandem with your movement and action: |\n| • draw or sheathe a sword |\n| • open or close a door |\n| • withdraw a potion from your backpack |\n| • pick up a dropped axe |\n| • take a bauble from a table |\n| • remove a ring from your finger |\n| • stuff some food into your mouth |\n| • plant a banner in the ground |\n| • fish a few coins from your belt pouch |\n| • drink all the ale in a flagon |\n| • throw a lever or a switch |\n| • pull a torch from a sconce |\n| • take a book from a shelf you can reach |\n| • extinguish a small flame |\n| • don a mask |\n| • pull the hood of your cloak up and over your head |\n| • put your ear to a door |\n| • kick a small stone |\n| • turn a key in a lock |\n| • tap the floor with a 10-­‐foot pole |\n| • hand an item to another character |\n"
+    },
+    {
+      "page": 92,
+      "table_index": 2,
+      "markdown": "| Tiny | 2½ by 2½ ft. |\n| --- | --- |\n"
+    },
+    {
+      "page": 92,
+      "table_index": 3,
+      "markdown": "| Medium | 5 by 5 ft. |\n| --- | --- |\n"
+    },
+    {
+      "page": 92,
+      "table_index": 4,
+      "markdown": "| Huge | 15 by 15 ft. |\n| --- | --- |\n"
+    },
+    {
+      "page": 96,
+      "table_index": 1,
+      "markdown": "| Contests in Combat |\n| --- |\n| Battle often involves pitting your prowess against that of |\n| your foe. Such a challenge is represented by a contest. This |\n| section includes the most common contests that require an |\n| action in combat: grappling and shoving a creature. The GM |\n| can use these contests as models for improvising others. |\n"
+    },
+    {
+      "page": 100,
+      "table_index": 1,
+      "markdown": "| Casting in Armor |\n| --- |\n| Because of the mental focus and precise gestures required |\n| for spellcasting, you must be proficient with the armor you |\n| are wearing to cast a spell. You are otherwise too distracted |\n| and physically hampered by your armor for spellcasting. |\n"
+    },
+    {
+      "page": 103,
+      "table_index": 1,
+      "markdown": "| The Schools of Magic |\n| --- |\n| Academies of magic group spells into eight categories called |\n| schools of magic. Scholars, particularly wizards, apply these |\n| categories to all spells, believing that all magic functions in |\n| essentially the same way, whether it derives from rigorous |\n| study or is bestowed by a deity. |\n| The schools of magic help describe spells; they have no |\n| rules of their own, although some rules refer to the schools. |\n| Abjuration spells are protective in nature, though some of |\n| them have aggressive uses. They create magical barriers, |\n| negate harmful effects, harm trespassers, or banish creatures |\n| to other planes of existence. |\n| Conjuration spells involve the transportation of objects |\n| and creatures from one location to another. Some spells |\n| summon creatures or objects to the caster’s side, whereas |\n| others allow the caster to teleport to another location. Some |\n| conjurations create objects or effects out of nothing. |\n| Divination spells reveal information, whether in the form |\n| of secrets long forgotten, glimpses of the future, the |\n| locations of hidden things, the truth behind illusions, or |\n| visions of distant people or places. |\n| Enchantment spells affect the minds of others, influencing |\n| or controlling their behavior. Such spells can make enemies |\n| see the caster as a friend, force creatures to take a course of |\n| action, or even control another creature like a puppet. |\n| Evocation spells manipulate magical energy to produce a |\n| desired effect. Some call up blasts of fire or lightning. Others |\n| channel positive energy to heal wounds. |\n| Illusion spells deceive the senses or minds of others. They |\n| cause people to see things that are not there, to miss things |\n| that are there, to hear phantom noises, or to remember |\n| things that never happened. Some illusions create phantom |\n"
+    },
+    {
+      "page": 104,
+      "table_index": 1,
+      "markdown": "| images that any creature can see, but the most insidious |\n| --- |\n| illusions plant an image directly in the mind of a creature. |\n| Necromancy spells manipulate the energies of life and |\n| death. Such spells can grant an extra reserve of life force, |\n| drain the life energy from another creature, create the |\n| undead, or even bring the dead back to life. |\n| Creating the undead through the use of necromancy spells |\n| such as animate dead is not a good act, and only evil casters |\n| use such spells frequently. |\n| Transmutation spells change the properties of a creature, |\n| object, or environment. They might turn an enemy into a |\n| harmless creature, bolster the strength of an ally, make an |\n| object move at the caster’s command, or enhance a creature’s |\n| innate healing abilities to rapidly recover from injury. |\n"
+    },
+    {
+      "page": 116,
+      "table_index": 1,
+      "markdown": "| Tiny | 20 | 18 | +8 to hit, 1d4 + 4 damage | 4 | 18 |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 116,
+      "table_index": 2,
+      "markdown": "| Medium | 40 | 13 | +5 to hit, 2d6 + 1 damage | 10 | 12 |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 116,
+      "table_index": 3,
+      "markdown": "| Huge | 80 | 10 | +8 to hit, 2d12 + 4\ndamage | 18 | 6 |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 127,
+      "table_index": 1,
+      "markdown": "|  | within its reach. If there is no creature within its\nreach, the creature does nothing this turn. |\n| --- | --- |\n"
+    },
+    {
+      "page": 127,
+      "table_index": 2,
+      "markdown": "| 1 | The creature uses all it\nrandom direction. To d\na d8 and assign a direc\ncreature doesn’t take | s movement to move in a |\n| --- | --- | --- |\n|  |  | etermine the direction, roll |\n|  |  | tion to each die face. The |\n|  |  | an action this turn. |\n"
+    },
+    {
+      "page": 127,
+      "table_index": 3,
+      "markdown": "| 7–8 | The creature uses its a\nattack against a rando | ction to make a melee |\n| --- | --- | --- |\n|  |  | mly determined creature |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 1,
+      "markdown": "| 1 | Unbearable heat |\n| --- | --- |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 2,
+      "markdown": "| 3 | Warm |\n| --- | --- |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 3,
+      "markdown": "| 5 | Cold |\n| --- | --- |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 4,
+      "markdown": "| 1 | Calm |\n| --- | --- |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 5,
+      "markdown": "| 3 | Strong wind |\n| --- | --- |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 6,
+      "markdown": "| 5 | Storm |\n| --- | --- |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 7,
+      "markdown": "| 1 | Clear |  |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 8,
+      "markdown": "| 3 | Overcast or ground f | og |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 131,
+      "table_index": 9,
+      "markdown": "| 5 | Torrential rain, drivin | g hail, or blizzard |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 132,
+      "table_index": 1,
+      "markdown": "| Vegetable matter | 1 day |\n| --- | --- |\n"
+    },
+    {
+      "page": 132,
+      "table_index": 2,
+      "markdown": "| Precious metals | 1 hour |\n| --- | --- |\n"
+    },
+    {
+      "page": 132,
+      "table_index": 3,
+      "markdown": "| Adamantine or mithral | 1 minute |\n| --- | --- |\n"
+    },
+    {
+      "page": 174,
+      "table_index": 1,
+      "markdown": "| 01–04 | Dragonborn |\n| --- | --- |\n"
+    },
+    {
+      "page": 174,
+      "table_index": 2,
+      "markdown": "| 14–21 | Dwarf, mountain |\n| --- | --- |\n"
+    },
+    {
+      "page": 174,
+      "table_index": 3,
+      "markdown": "| 26–34 | Elf, high |\n| --- | --- |\n"
+    },
+    {
+      "page": 174,
+      "table_index": 4,
+      "markdown": "| 43–46 | Gnome, forest |\n| --- | --- |\n"
+    },
+    {
+      "page": 174,
+      "table_index": 5,
+      "markdown": "| 53–56 | Half-­‐elf |\n| --- | --- |\n"
+    },
+    {
+      "page": 174,
+      "table_index": 6,
+      "markdown": "| 61–68 | Halfling, lightfoot |\n| --- | --- |\n"
+    },
+    {
+      "page": 174,
+      "table_index": 7,
+      "markdown": "| 77–96 | Human |\n| --- | --- |\n"
+    },
+    {
+      "page": 176,
+      "table_index": 1,
+      "markdown": "| Secondhand (you have heard of the target) | +5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 176,
+      "table_index": 2,
+      "markdown": "| Familiar (you know the target well) | −5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 176,
+      "table_index": 3,
+      "markdown": "| Likeness or picture | −2 |\n| --- | --- |\n"
+    },
+    {
+      "page": 176,
+      "table_index": 4,
+      "markdown": "| Body part, lock of hair, bit of nail, or the like | −10 |\n| --- | --- |\n"
+    },
+    {
+      "page": 186,
+      "table_index": 1,
+      "markdown": "| Permanent\ncircle |  | — | — | — | 01–100 |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n"
+    },
+    {
+      "page": 186,
+      "table_index": 2,
+      "markdown": "| Very familiar |  | 01–05 | 06–13 | 14–24 | 25–100 |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 186,
+      "table_index": 3,
+      "markdown": "| Viewed once |  | 01–43 | 44–53 | 54–73 | 74–100 |\n| --- | --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 186,
+      "table_index": 4,
+      "markdown": "| False\ndestination |  | 01–50 | 51–100 | — | — |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n"
+    },
+    {
+      "page": 196,
+      "table_index": 1,
+      "markdown": "| Setback |  | 10–11 | +3 to +5 |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 196,
+      "table_index": 2,
+      "markdown": "| Deadly |  | 16–20 | +9 to +12 |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 196,
+      "table_index": 3,
+      "markdown": "| 1st–4th |  | 1d10 | 2d10 | 4d10 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 196,
+      "table_index": 4,
+      "markdown": "| 11th–16th |  | 4d10 | 10d10 | 18d10 |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 1,
+      "markdown": "| 51–60 | The character must use his or her action each\nround to attack the nearest creature. |\n| --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 2,
+      "markdown": "| 71–75 | The character does whatever anyone tells him\nor her to do that isn’t obviously self-­‐\ndestructive. |\n| --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 3,
+      "markdown": "| 81–90 | The character is stunned. |\n| --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 4,
+      "markdown": "| 01–10 | The character feels compelled to repeat a\nspecific activity over and over, such as washing\nhands, touching things, praying, or counting\ncoins. |\n| --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 5,
+      "markdown": "| 21–30 | The character suffers extreme paranoia. The\ncharacter has disadvantage on Wisdom and\nCharisma checks. |\n| --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 6,
+      "markdown": "| 41–45 | The character experiences a powerful delusion.\nChoose a potion. The character imagines that\nhe or she is under its effects. |\n| --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 7,
+      "markdown": "| 56–65 | The character is blinded (25%) or deafened\n(75%). |\n| --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 8,
+      "markdown": "| 76–85 | The character suffers from partial amnesia. The\ncharacter knows who he or she is and retains\nracial traits and class features, but doesn’t\nrecognize other people or remember anything\nthat happened before the madness took effect. |\n| --- | --- |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 9,
+      "markdown": "| 01–20 | The character retreats i\nbecomes paralyzed. The\ncharacter takes any dam | nto his or her mind and |\n| --- | --- | --- |\n|  |  | effect ends if the |\n|  |  | age. |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 10,
+      "markdown": "| 31–40 | The character becomes\nuse his or her action an\nround to flee from the s | frightened and must |\n| --- | --- | --- |\n|  |  | d movement each |\n|  |  | ource of the fear. |\n"
+    },
+    {
+      "page": 201,
+      "table_index": 11,
+      "markdown": "| 91–95 | The character loses the ability to speak. |\n| --- | --- |\n"
+    },
+    {
+      "page": 202,
+      "table_index": 1,
+      "markdown": "| 01–15 | “Being drunk keeps me | sane.” |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 202,
+      "table_index": 2,
+      "markdown": "| 26–30 | “I try to become more li\nknow—adopting his or\nmannerisms, and name. | ke someone else I |\n| --- | --- | --- |\n|  |  | her style of dress, |\n|  |  | ” |\n"
+    },
+    {
+      "page": 202,
+      "table_index": 3,
+      "markdown": "| 36–45 | “Achieving my goal is th\nto me, and I’ll ignore ev\nit.” | e only thing of interest |\n| --- | --- | --- |\n|  |  | erything else to pursue |\n|  |  |  |\n"
+    },
+    {
+      "page": 202,
+      "table_index": 4,
+      "markdown": "| 51–55 | “I don’t like the way peo\ntime.” | ple judge me all the |\n| --- | --- | --- |\n|  |  |  |\n"
+    },
+    {
+      "page": 202,
+      "table_index": 5,
+      "markdown": "| 71–80 | “I am convinced that po\nhunting me, and their a\ngo. I am sure they’re wa | werful enemies are |\n| --- | --- | --- |\n|  |  | gents are everywhere I |\n|  |  | tching me all the time.” |\n"
+    },
+    {
+      "page": 202,
+      "table_index": 6,
+      "markdown": "| 86–95 | “I can’t take anything se\nserious the situation, th | riously. The more |\n| --- | --- | --- |\n|  |  | e funnier I find it.” |\n"
+    },
+    {
+      "page": 203,
+      "table_index": 1,
+      "markdown": "| Cloth, paper | , rope | 11 |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 203,
+      "table_index": 2,
+      "markdown": "| Wood, bone |  | 15 |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 203,
+      "table_index": 3,
+      "markdown": "| Iron, steel |  | 19 |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 203,
+      "table_index": 4,
+      "markdown": "| Adamantine |  | 23 |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 203,
+      "table_index": 5,
+      "markdown": "| Tiny (bottle, | lock) | 2 (1d4) | 5 (2d4) |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 203,
+      "table_index": 6,
+      "markdown": "| Medium (ba | rrel, chandelier) | 4 (1d8) | 18 (4d8) |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 204,
+      "table_index": 1,
+      "markdown": "| Assassin’s bl | ood | Ingested | 150 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 204,
+      "table_index": 2,
+      "markdown": "| Crawler muc | us | Contact | 200 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 204,
+      "table_index": 3,
+      "markdown": "| Essence of e | ther | Inhaled | 300 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 204,
+      "table_index": 4,
+      "markdown": "| Midnight tea | rs | Ingested | 1,500 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 204,
+      "table_index": 5,
+      "markdown": "| Pale tincture |  | Ingested | 250 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 204,
+      "table_index": 6,
+      "markdown": "| Serpent ven | om | Injury | 200 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 204,
+      "table_index": 7,
+      "markdown": "| Truth serum |  | Ingested | 150 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 208,
+      "table_index": 1,
+      "markdown": "|  | allowing the apparatus\nto walk and swim. | reducing the apparatus’s\nspeed to 0 and making it\nunable to benefit from\nbonuses to speed. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 208,
+      "table_index": 2,
+      "markdown": "| 3 | Side window shutters\nopen (two per side). | Side window shutters\nclose (two per side). |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 208,
+      "table_index": 3,
+      "markdown": "| 5 | Each extended claw\nmakes the following\nmelee weapon attack:\n+8 to hit, reach 5 ft., one\ntarget. Hit: 7 (2d6)\nbludgeoning damage. | Each extended claw\nmakes the following\nmelee weapon attack: +8\nto hit, reach 5 ft., one\ntarget. Hit: The target is\ngrappled (escape DC 15). |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 208,
+      "table_index": 4,
+      "markdown": "| 7 | The apparatus turns 90\ndegrees left. | The apparatus turns 90\ndegrees right. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 208,
+      "table_index": 5,
+      "markdown": "| 9 | The apparatus sinks as\nmuch as 20 feet in\nliquid. | The apparatus rises up\nto 20 feet in liquid. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 208,
+      "table_index": 6,
+      "markdown": "| 1 | Legs and tail extend, |  | Legs and tail retract, |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 1,
+      "markdown": "| 1 | Acid |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 2,
+      "markdown": "| 6 | Necrotic |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 3,
+      "markdown": "| 3 | Fire |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 4,
+      "markdown": "| 8 | Psychic |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 5,
+      "markdown": "| 5 | Lightning |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 6,
+      "markdown": "| 10 | Thunder |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 7,
+      "markdown": "| 01 | 5d4 toadstools sprout. If a creature eats a\ntoadstool, roll any die. On an odd roll, the eater\nmust succeed on a DC 15 Constitution saving\nthrow or take 5d6 poison damage and become\npoisoned for 1 hour. On an even roll, the eater\ngains 5d6 temporary hit points for 1 hour. |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 8,
+      "markdown": "| 11–20 | A treant sprouts. There’s a 50 percent chance\nthat the treant is chaotic evil and attacks. |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 9,
+      "markdown": "| 31–40 | A campfire with blue flames springs forth and\nburns for 24 hours (or until it is extinguished). |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 10,
+      "markdown": "| 51–60 | 1d4 + 8 bright pink toads crawl forth. Whenever\na toad is touched, it transforms into a Large or\nsmaller monster of the GM’s choice. The\nmonster remains for 1 minute, then disappears\nin a puff of bright pink smoke. |\n| --- | --- |\n"
+    },
+    {
+      "page": 209,
+      "table_index": 11,
+      "markdown": "| 71–80 | A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of\nwhich act as randomly determined magic\npotions, while one acts as an ingested poison of\nthe GM’s choice. The tree vanishes after 1 hour.\nPicked fruit remains, retaining any magic for 30\ndays. |\n| --- | --- |\n"
+    },
+    {
+      "page": 210,
+      "table_index": 1,
+      "markdown": "| 91–99 | A pyramid with a 60-­‐fo\nupward. Inside is a sar\nmummy lord. The pyra\nmummy lord’s lair, an\ntreasure of the GM’s c | ot-­‐square base bursts |\n| --- | --- | --- |\n|  |  | cophagus containing a |\n|  |  | mid is treated as the |\n|  |  | d its sarcophagus contains |\n|  |  | hoice. |\n"
+    },
+    {
+      "page": 210,
+      "table_index": 2,
+      "markdown": "| 1 | Weasel |\n| --- | --- |\n"
+    },
+    {
+      "page": 210,
+      "table_index": 3,
+      "markdown": "| 3 | Badger |\n| --- | --- |\n"
+    },
+    {
+      "page": 210,
+      "table_index": 4,
+      "markdown": "| 5 | Panther |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 1,
+      "markdown": "| 7 | Dire wolf |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 2,
+      "markdown": "| 1 | Rat |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 3,
+      "markdown": "| 3 | Mastiff |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 4,
+      "markdown": "| 5 | Giant goat |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 5,
+      "markdown": "| 7 | Lion |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 6,
+      "markdown": "| 1 | Jackal |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 7,
+      "markdown": "| 3 | Baboon |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 8,
+      "markdown": "| 5 | Black bear |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 9,
+      "markdown": "| 7 | Giant hyena |\n| --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 10,
+      "markdown": "| Hill giant | 21 | Rare |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 11,
+      "markdown": "| Fire giant | 25 | Very rare |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 211,
+      "table_index": 12,
+      "markdown": "| Storm giant | 29 | Legendary |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 213,
+      "table_index": 1,
+      "markdown": "| 1–2 | Chaotic evil |\n| --- | --- |\n"
+    },
+    {
+      "page": 213,
+      "table_index": 2,
+      "markdown": "| 01–20 | 3 ft. × 5 ft. | 200 lb. | 80 feet |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 213,
+      "table_index": 3,
+      "markdown": "| 5–7 | Chaotic good |\n| --- | --- |\n"
+    },
+    {
+      "page": 213,
+      "table_index": 4,
+      "markdown": "| 56–80 | 5 ft. × 7 ft. | 600 lb. | 40 feet |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 213,
+      "table_index": 5,
+      "markdown": "| 10–11 | Neutral |\n| --- | --- |\n"
+    },
+    {
+      "page": 213,
+      "table_index": 6,
+      "markdown": "| 14–15 | Lawful evil |\n| --- | --- |\n"
+    },
+    {
+      "page": 213,
+      "table_index": 7,
+      "markdown": "| 18–20 | Lawful good |\n| --- | --- |\n"
+    },
+    {
+      "page": 215,
+      "table_index": 1,
+      "markdown": "| Disintegrate | 1d12 |\n| --- | --- |\n"
+    },
+    {
+      "page": 215,
+      "table_index": 2,
+      "markdown": "| Passwall | 1d6 |\n| --- | --- |\n"
+    },
+    {
+      "page": 215,
+      "table_index": 3,
+      "markdown": "| Wall of fire | 1d4 |\n| --- | --- |\n"
+    },
+    {
+      "page": 215,
+      "table_index": 4,
+      "markdown": "| 1 | 1 | Gases, wind, and fog can’t pass\nthe barrier. | through |\n| --- | --- | --- | --- |\n|  |  |  |  |\n"
+    },
+    {
+      "page": 215,
+      "table_index": 5,
+      "markdown": "| 3 | 3 | Living matter can’t pass throug\nbarrier. | h the |\n| --- | --- | --- | --- |\n|  |  |  |  |\n"
+    },
+    {
+      "page": 215,
+      "table_index": 6,
+      "markdown": "| 5 | 5 | Nothing can pass through the b\nWalls, floors, and ceilings can p\nat your discretion. | arrier. |\n| --- | --- | --- | --- |\n|  |  |  | ass through |\n|  |  |  |  |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 1,
+      "markdown": "| Ace of hearts | Red dragon |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 2,
+      "markdown": "| Queen of hearts | Succubus or incubus |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 3,
+      "markdown": "| Ten of hearts | Cloud giant |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 4,
+      "markdown": "| Eight of hearts | Bugbear |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 5,
+      "markdown": "| Ace of diamonds | Beholder |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 6,
+      "markdown": "| Queen of diamonds | Night hag |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 7,
+      "markdown": "| Ten of diamonds | Fire giant |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 8,
+      "markdown": "| Eight of diamonds | Gnoll |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 9,
+      "markdown": "| Ace of spades | Lich |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 10,
+      "markdown": "| Queen of spades | Medusa |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 11,
+      "markdown": "| Ten of spades | Frost giant |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 12,
+      "markdown": "| Eight of spades | Hobgoblin |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 13,
+      "markdown": "| Ace of clubs | Iron golem |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 14,
+      "markdown": "| Queen of clubs | Erinyes |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 15,
+      "markdown": "| Ten of clubs | Hill giant |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 16,
+      "markdown": "| Eight of clubs | Orc |\n| --- | --- |\n"
+    },
+    {
+      "page": 216,
+      "table_index": 17,
+      "markdown": "| Jokers (2) | You (the deck’s owner) |\n| --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 1,
+      "markdown": "| Ace of diam | onds | Vizier* |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 2,
+      "markdown": "| Queen of dia | monds | Moon |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 3,
+      "markdown": "| Two of diam | onds | Comet* |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 4,
+      "markdown": "| King of heart | s | Throne |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 5,
+      "markdown": "| Jack of heart | s | Knight |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 6,
+      "markdown": "| Ace of clubs |  | Talons* |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 7,
+      "markdown": "| Queen of clu | bs | Flames |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 8,
+      "markdown": "| Two of clubs |  | Idiot* |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 9,
+      "markdown": "| King of spad | es | Ruin |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 10,
+      "markdown": "| Jack of spad | es | Rogue |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 217,
+      "table_index": 11,
+      "markdown": "| Joker (with T | M) | Fool* |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 219,
+      "table_index": 1,
+      "markdown": "| Black | Acid |\n| --- | --- |\n"
+    },
+    {
+      "page": 219,
+      "table_index": 2,
+      "markdown": "| Gold | Fire |\n| --- | --- |\n"
+    },
+    {
+      "page": 219,
+      "table_index": 3,
+      "markdown": "| Brass | Fire |\n| --- | --- |\n"
+    },
+    {
+      "page": 219,
+      "table_index": 4,
+      "markdown": "| Red | Fire |\n| --- | --- |\n"
+    },
+    {
+      "page": 219,
+      "table_index": 5,
+      "markdown": "| Copper | Acid |\n| --- | --- |\n"
+    },
+    {
+      "page": 219,
+      "table_index": 6,
+      "markdown": "| White | Cold |\n| --- | --- |\n"
+    },
+    {
+      "page": 220,
+      "table_index": 1,
+      "markdown": "| 91–00 | The efreeti can cast the wish spell three times for\nyou. It disappears when it grants the final wish or\nafter 1 hour, and the bottle loses its magic. |\n| --- | --- |\n"
+    },
+    {
+      "page": 220,
+      "table_index": 2,
+      "markdown": "| Blue sapphire | Air elemental |  |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 220,
+      "table_index": 3,
+      "markdown": "| Red corundum | Fire elemental |  |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 220,
+      "table_index": 4,
+      "markdown": "| 01–10 | The efreeti attacks you\nrounds, the efreeti dis\nloses its magic. | . After fighting for 5 |\n| --- | --- | --- |\n|  |  | appears, and the bottle |\n|  |  |  |\n"
+    },
+    {
+      "page": 221,
+      "table_index": 1,
+      "markdown": "| 01–20 | Anchor |\n| --- | --- |\n"
+    },
+    {
+      "page": 221,
+      "table_index": 2,
+      "markdown": "| 51–65 | Swan boat |\n| --- | --- |\n"
+    },
+    {
+      "page": 221,
+      "table_index": 3,
+      "markdown": "| 36–50 | Fan |\n| --- | --- |\n"
+    },
+    {
+      "page": 221,
+      "table_index": 4,
+      "markdown": "| 91–00 | Whip |\n| --- | --- |\n"
+    },
+    {
+      "page": 226,
+      "table_index": 1,
+      "markdown": "| 01–40 | Silver | 2d4 + 2 | None |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 226,
+      "table_index": 2,
+      "markdown": "| 76–90 | Bronze | 4d4 + 4 | Proficiency with all\nmedium armor |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 1,
+      "markdown": "| 1‒50 | Empty |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 2,
+      "markdown": "| 55‒58 | Demon (type 2) |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 3,
+      "markdown": "| 63‒64 | Demon (type 4) |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 4,
+      "markdown": "| 66 | Demon (type 6) |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 5,
+      "markdown": "| 68‒69 | Devil (greater) |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 6,
+      "markdown": "| 74‒75 | Djinni |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 7,
+      "markdown": "| 78‒83 | Elemental (any) |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 8,
+      "markdown": "| 87‒90 | Night hag |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 9,
+      "markdown": "| 92‒95 | Salamander |\n| --- | --- |\n"
+    },
+    {
+      "page": 228,
+      "table_index": 10,
+      "markdown": "| 97‒99 | Succubus/incubus |\n| --- | --- |\n"
+    },
+    {
+      "page": 229,
+      "table_index": 1,
+      "markdown": "| 1–5 | Clay | 30 days | 65,000 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 229,
+      "table_index": 2,
+      "markdown": "| 18 | Iron | 120 days | 100,000 gp |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 231,
+      "table_index": 1,
+      "markdown": "| 1–6 | Blessing | Bless |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 231,
+      "table_index": 2,
+      "markdown": "| 13–16 | Favor | Greater restoration |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 231,
+      "table_index": 3,
+      "markdown": "| 19 | Summons | Planar ally |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 234,
+      "table_index": 1,
+      "markdown": "| Healing | Common | 2d4 + 2 |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 234,
+      "table_index": 2,
+      "markdown": "| Superior healing | Rare | 8d4 + 8 |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 234,
+      "table_index": 3,
+      "markdown": "| Hill giant |  | 21 | Uncommon |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 234,
+      "table_index": 4,
+      "markdown": "| Fire giant |  | 25 | Rare |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 234,
+      "table_index": 5,
+      "markdown": "| Storm giant |  | 29 | Legendary |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 235,
+      "table_index": 1,
+      "markdown": "| 1 | Acid |\n| --- | --- |\n"
+    },
+    {
+      "page": 235,
+      "table_index": 2,
+      "markdown": "| 6 | Necrotic |\n| --- | --- |\n"
+    },
+    {
+      "page": 235,
+      "table_index": 3,
+      "markdown": "| 3 | Fire |\n| --- | --- |\n"
+    },
+    {
+      "page": 235,
+      "table_index": 4,
+      "markdown": "| 8 | Psychic |\n| --- | --- |\n"
+    },
+    {
+      "page": 235,
+      "table_index": 5,
+      "markdown": "| 5 | Lightning |\n| --- | --- |\n"
+    },
+    {
+      "page": 235,
+      "table_index": 6,
+      "markdown": "| 10 | Thunder |\n| --- | --- |\n"
+    },
+    {
+      "page": 237,
+      "table_index": 1,
+      "markdown": "| 4 | 2d4 |\n| --- | --- |\n"
+    },
+    {
+      "page": 237,
+      "table_index": 2,
+      "markdown": "| 2 | 5d4 |\n| --- | --- |\n"
+    },
+    {
+      "page": 237,
+      "table_index": 3,
+      "markdown": "| 1 | Acid | Pearl |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 237,
+      "table_index": 4,
+      "markdown": "| 3 | Fire | Garnet |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 237,
+      "table_index": 5,
+      "markdown": "| 5 | Lightning | Citrine |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 237,
+      "table_index": 6,
+      "markdown": "| 7 | Poison | Amethyst |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 237,
+      "table_index": 7,
+      "markdown": "| 9 | Radiant | Topaz |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 239,
+      "table_index": 1,
+      "markdown": "| 01–08 | Bag of 100 gp |\n| --- | --- |\n"
+    },
+    {
+      "page": 239,
+      "table_index": 2,
+      "markdown": "| 16–22 | Iron door (up to 10 feet wide and 10 feet high,\nbarred on one side of your choice), which you\ncan place in an opening you can reach; it\nconforms to fit the opening, attaching and\nhinging itself |\n| --- | --- |\n"
+    },
+    {
+      "page": 239,
+      "table_index": 3,
+      "markdown": "| 31–44 | Wooden ladder (24 feet long) |\n| --- | --- |\n"
+    },
+    {
+      "page": 239,
+      "table_index": 4,
+      "markdown": "| 52–59 | Pit (a cube 10 feet on a side), which you can\nplace on the ground within 10 feet of you |\n| --- | --- |\n"
+    },
+    {
+      "page": 239,
+      "table_index": 5,
+      "markdown": "| 69–75 | Rowboat (12 feet long) |\n| --- | --- |\n"
+    },
+    {
+      "page": 239,
+      "table_index": 6,
+      "markdown": "| 84–90 | 2 mastiffs |\n| --- | --- |\n"
+    },
+    {
+      "page": 239,
+      "table_index": 7,
+      "markdown": "| 97–00 | Portable ram |\n| --- | --- |\n"
+    },
+    {
+      "page": 242,
+      "table_index": 1,
+      "markdown": "| Cantrip | Common | 13 | +5 |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 242,
+      "table_index": 2,
+      "markdown": "| 2nd | Uncommon | 13 | +5 |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 242,
+      "table_index": 3,
+      "markdown": "| 4th | Rare | 15 | +7 |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 242,
+      "table_index": 4,
+      "markdown": "| 6th | Very rare | 17 | +9 |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 242,
+      "table_index": 5,
+      "markdown": "| 8th | Very rare | 18 | +10 |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 243,
+      "table_index": 1,
+      "markdown": "| 01–50 | The sphere is destroye | d. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 243,
+      "table_index": 2,
+      "markdown": "| 86–00 | A spatial rift sends eac\nwithin 180 feet of the\nsphere, to a random p | h creature and object |\n| --- | --- | --- |\n|  |  | sphere, including the |\n|  |  | lane of existence. |\n"
+    },
+    {
+      "page": 244,
+      "table_index": 1,
+      "markdown": "| 10 ft. away o | r closer | 8 × the number of charges in the staf | f |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 244,
+      "table_index": 2,
+      "markdown": "| 21 to 30 ft. a | way | 4 × the number of charges in the staf | f |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 245,
+      "table_index": 1,
+      "markdown": "| 10 ft. away o | r closer | 8 × the number of charges in the staf | f |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 245,
+      "table_index": 2,
+      "markdown": "| 21 to 30 ft. a | way | 4 × the number of charges in the staf | f |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 1,
+      "markdown": "|  | divided equally among all creatures in the line. |\n| --- | --- |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 2,
+      "markdown": "| 01–05 | You cast slow. |  |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 3,
+      "markdown": "| 96–97 | The target’s skin turns bright blue for 1d10 days.\nIf you chose a point in space, the creature\nnearest to that point is affected. |\n| --- | --- |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 4,
+      "markdown": "| 11–15 | You are stunned until\nbelieving something a | the start of your next turn, |\n| --- | --- | --- |\n|  |  | wesome just happened. |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 5,
+      "markdown": "| 21–25 | You cast detect thoug\nchose. If you didn’t tar\ninstead take 1d6 psych | hts on the target you |\n| --- | --- | --- |\n|  |  | get a creature, you |\n|  |  | ic damage. |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 6,
+      "markdown": "| 31–33 | Heavy rain falls in a 60\nthe target. The area b\nThe rain falls until the | -­‐foot radius centered on |\n| --- | --- | --- |\n|  |  | ecomes lightly obscured. |\n|  |  | start of your next turn. |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 7,
+      "markdown": "| 37–46 | You cast lightning bolt | . |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 8,
+      "markdown": "| 50–53 | You enlarge the target\nenlarge/reduce. If the\nthat spell, or if you did\nbecome the target. | as if you had cast |\n| --- | --- | --- |\n|  |  | target can’t be affected by |\n|  |  | n’t target a creature, you |\n|  |  |  |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 9,
+      "markdown": "| 59–62 | Grass grows on the gr\ncentered on the target\nit grows to ten times it\novergrown for 1 minut | ound in a 60-­‐foot radius |\n| --- | --- | --- |\n|  |  | . If grass is already there, |\n|  |  | s normal size and remains |\n|  |  | e. |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 10,
+      "markdown": "| 66–69 | You shrink yourself as\nenlarge/reduce on you | if you had cast |\n| --- | --- | --- |\n|  |  | rself. |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 11,
+      "markdown": "| 80–84 | You cast invisibility on | yourself. |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 250,
+      "table_index": 12,
+      "markdown": "| 88–90 | A stream of 1d4 × 10 g\nshoots from the wand\nand 5 feet wide. Each\ndamage, and the total | ems, each worth 1 gp, |\n| --- | --- | --- |\n|  |  | ’s tip in a line 30 feet long |\n|  |  | gem deals 1 bludgeoning |\n|  |  | damage of the gems is |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 1,
+      "markdown": "| 01–60 | The item communicates by transmitting emotion\nto the creature carrying or wielding it. |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 2,
+      "markdown": "| 91–00 | The item can speak, read, and understand one\nor more languages. In addition, the item can\ncommunicate telepathically with any character\nthat carries or wields it. |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 3,
+      "markdown": "| 1 | Hearing and normal vision out to 30 feet. |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 4,
+      "markdown": "| 3 | Hearing and normal vision out to 120 feet. |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 5,
+      "markdown": "| 01–15 | Lawful good |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 6,
+      "markdown": "| 74–85 | Chaotic neutral |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 7,
+      "markdown": "| 36–50 | Chaotic good |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 8,
+      "markdown": "| 90–96 | Neutral evil |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 9,
+      "markdown": "| 64–73 | Neutral |\n| --- | --- |\n"
+    },
+    {
+      "page": 251,
+      "table_index": 10,
+      "markdown": "|  |  |\n| --- | --- |\n"
+    },
+    {
+      "page": 252,
+      "table_index": 1,
+      "markdown": "| 1 | Aligned: The item s\ndiametrically oppos\nnever neutral.) | eeks to defeat or destroy those of a |\n| --- | --- | --- |\n|  |  | ed alignment. (Such an item is |\n|  |  |  |\n"
+    },
+    {
+      "page": 252,
+      "table_index": 2,
+      "markdown": "| 3 | Protector: The item\nor kind of creature, | seeks to defend a particular race |\n| --- | --- | --- |\n|  |  | such as elves or druids. |\n"
+    },
+    {
+      "page": 252,
+      "table_index": 3,
+      "markdown": "| 5 | Templar: The item\ninterests of a partic | seeks to defend the servants and |\n| --- | --- | --- |\n|  |  | ular deity. |\n"
+    },
+    {
+      "page": 252,
+      "table_index": 4,
+      "markdown": "| 7 | Glory Seeker: The it\nmagic item in the w\nfamous or notoriou | em seeks renown as the greatest |\n| --- | --- | --- |\n|  |  | orld, by establishing its user as a |\n|  |  | s figure. |\n"
+    },
+    {
+      "page": 252,
+      "table_index": 5,
+      "markdown": "| 9 | Destiny Seeker: The\nwielder have key ro | item is convinced that it and its |\n| --- | --- | --- |\n|  |  | les to play in future events. |\n"
+    },
+    {
+      "page": 254,
+      "table_index": 1,
+      "markdown": "| Tiny |  | 2½ by 2½ ft. | Imp, sprite |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 254,
+      "table_index": 2,
+      "markdown": "| Medium |  | 5 by 5 ft. | Orc, werewolf |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 254,
+      "table_index": 3,
+      "markdown": "| Huge |  | 15 by 15 ft. | Fire giant, treant |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 254,
+      "table_index": 4,
+      "markdown": "| Modifying Creatures |\n| --- |\n| Despite the versatile collection of monsters in this book, you |\n| might be at a loss when it comes to finding the perfect |\n| creature for part of an adventure. Feel free to tweak an |\n| existing creature to make it into something more useful for |\n| you, perhaps by borrowing a trait or two from a different |\n| monster or by using a variant or template, such as the ones |\n| in this book. Keep in mind that modifying a monster, |\n| including when you apply a template to it, might change its |\n| challenge rating. |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 1,
+      "markdown": "| Tiny |  | d4 | 2½ |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 2,
+      "markdown": "| Medium |  | d8 | 4½ |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 3,
+      "markdown": "| Huge |  | d12 | 6½ |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 4,
+      "markdown": "| 0 | +2 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 5,
+      "markdown": "| 14 | +5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 6,
+      "markdown": "| 1/4 | +2 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 7,
+      "markdown": "| 16 | +5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 8,
+      "markdown": "| 1 | +2 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 9,
+      "markdown": "| 18 | +6 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 10,
+      "markdown": "| 3 | +2 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 11,
+      "markdown": "| 20 | +6 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 12,
+      "markdown": "| 5 | +3 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 13,
+      "markdown": "| 22 | +7 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 14,
+      "markdown": "| 7 | +3 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 15,
+      "markdown": "| 24 | +7 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 16,
+      "markdown": "| 9 | +4 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 17,
+      "markdown": "| 26 | +8 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 18,
+      "markdown": "| 11 | +4 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 19,
+      "markdown": "| 28 | +8 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 20,
+      "markdown": "| 13 | +5 |\n| --- | --- |\n"
+    },
+    {
+      "page": 256,
+      "table_index": 21,
+      "markdown": "| 30 | +9 |\n| --- | --- |\n"
+    },
+    {
+      "page": 257,
+      "table_index": 1,
+      "markdown": "| Armor, Weapon, and Tool Proficiencies |\n| --- |\n| Assume that a creature is proficient with its armor, weapons, |\n| and tools. If you swap them out, you decide whether the |\n| creature is proficient with its new equipment. |\n| For example, a hill giant typically wears hide armor and |\n| wields a greatclub. You could equip a hill giant with chain |\n| mail and a greataxe instead, and assume the giant is |\n| proficient with both, one or the other, or neither. |\n| See the Player’s Handbook for rules on using armor or |\n| weapons without proficiency. |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 1,
+      "markdown": "| 0 | 0 or 10 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 2,
+      "markdown": "| 14 | 11,500 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 3,
+      "markdown": "| 1/4 | 50 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 4,
+      "markdown": "| 16 | 15,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 5,
+      "markdown": "| 1 | 200 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 6,
+      "markdown": "| 18 | 20,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 7,
+      "markdown": "| 3 | 700 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 8,
+      "markdown": "| 20 | 25,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 9,
+      "markdown": "| 5 | 1,800 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 10,
+      "markdown": "| 22 | 41,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 11,
+      "markdown": "| 7 | 2,900 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 12,
+      "markdown": "| 24 | 62,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 13,
+      "markdown": "| 9 | 5,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 14,
+      "markdown": "| 26 | 90,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 15,
+      "markdown": "| 11 | 7,200 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 16,
+      "markdown": "| 28 | 120,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 17,
+      "markdown": "| 13 | 10,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 258,
+      "table_index": 18,
+      "markdown": "| 30 | 155,000 |\n| --- | --- |\n"
+    },
+    {
+      "page": 259,
+      "table_index": 1,
+      "markdown": "| Grapple Rules for Monsters |\n| --- |\n| Many monsters have special attacks that allow them to |\n| quickly grapple prey. When a monster hits with such an |\n| attack, it doesn’t need to make an additional ability check to |\n| determine whether the grapple succeeds, unless the attack |\n| says otherwise. |\n| A creature grappled by the monster can use its action to |\n| try to escape. To do so, it must succeed on a Strength |\n| (Athletics) or Dexterity (Acrobatics) check against the escape |\n| DC in the monster’s stat block. If no escape DC is given, |\n| assume the DC is 10 + the monster’s Strength (Athletics) |\n| modifier. |\n"
+    },
+    {
+      "page": 320,
+      "table_index": 1,
+      "markdown": "| Black or copper | Acid |\n| --- | --- |\n"
+    },
+    {
+      "page": 321,
+      "table_index": 1,
+      "markdown": "| Brass, gold, | or red | Fire |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 321,
+      "table_index": 2,
+      "markdown": "| Silver or whi | te | Cold |\n| --- | --- | --- |\n"
+    },
+    {
+      "page": 321,
+      "table_index": 3,
+      "markdown": "| Large or\nsmaller |  | As a wyrmling | Challenge 2 or higher |\n| --- | --- | --- | --- |\n|  |  |  |  |\n"
+    },
+    {
+      "page": 321,
+      "table_index": 4,
+      "markdown": "| Gargantuan |  | As an adult dragon | Challenge 8 or higher |\n| --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 358,
+      "table_index": 1,
+      "markdown": "| 6 Death |\n| --- |\n|  |\n| If an already exhausted creature suffers another effect that |\n| causes exhaustion, its current level of exhaustion increases |\n| by the amount specified in the effect’s description. |\n| A creature suffers the effect of its current level of |\n| exhaustion as well as all lower levels. For example, a creature |\n| suffering level 2 exhaustion has its speed halved and has |\n| disadvantage on ability checks. |\n| An effect that removes exhaustion reduces its level as |\n| specified in the effect’s description, with all exhaustion |\n| effects ending if a creature’s exhaustion level is reduced |\n| below 1. |\n| Finishing a long rest reduces a creature’s exhaustion level |\n| by 1, provided that the creature has also ingested some food |\n| and drink. |\n"
+    },
+    {
+      "page": 358,
+      "table_index": 2,
+      "markdown": "| Exhaustion |\n| --- |\n| Some special abilities and environmental hazards, such as |\n| starvation and the long-­‐term effects of freezing or scorching |\n| temperatures, can lead to a special condition called |\n| exhaustion. Exhaustion is measured in six levels. An effect |\n| can give a creature one or more levels of exhaustion, as |\n| specified in the effect’s description. |\n|  |\n| Level Effect |\n| 1 Disadvantage on ability checks |\n| 2 Speed halved |\n| 3 Disadvantage on attack rolls and saving throws |\n| 4 Hit point maximum halved |\n| 5 Speed reduced to 0 |\n"
+    },
+    {
+      "page": 360,
+      "table_index": 1,
+      "markdown": "| The Daghdh | a, god of weather and crops | CG | Nature, Trickery | Bubbling cauldron or shield |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 360,
+      "table_index": 2,
+      "markdown": "| Belenus, god | of sun, light, and warmth | NG | Light | Solar disk and standing stones |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 360,
+      "table_index": 3,
+      "markdown": "| Diancecht, g | od of medicine and healing | LG | Life | Crossed oak and mistletoe branches |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 360,
+      "table_index": 4,
+      "markdown": "| Goibhniu, go | d of smiths and healing | NG | Knowledge, Life | Giant mallet over sword |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 360,
+      "table_index": 5,
+      "markdown": "| Manannan m | ac Lir, god of oceans and sea creatures | LN | Nature, Tempest | Wave of white water on green |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 1,
+      "markdown": "| Morrigan, go | ddess of battle | CE | War | Two crossed spears |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 2,
+      "markdown": "| Oghma, god | of speech and writing | NG | Knowledge | Unfurled scroll |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 3,
+      "markdown": "| Zeus, god of | the sky, ruler of the gods | N | Tempest | Fist full of lightning bolts |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 4,
+      "markdown": "| Apollo, god | of light, music, and healing | CG | Knowledge, Life, Light | Lyre |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 5,
+      "markdown": "| Artemis, god | dess of hunting and childbirth | NG | Life, Nature | Bow and arrow on lunar disk |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 6,
+      "markdown": "| Demeter, go | ddess of agriculture | NG | Life | Mareʼs head |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 7,
+      "markdown": "| Hades, god o | f the underworld | LE | Death | Black ram |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 8,
+      "markdown": "| Hephaestus, | god of smithing and craft | NG | Knowledge | Hammer and anvil |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 9,
+      "markdown": "| Hercules, go | d of strength and adventure | CG | Tempest, War | Lionʼs head |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 10,
+      "markdown": "| Hestia, godd | ess of home and family | NG | Life | Hearth |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 11,
+      "markdown": "| Pan, god of n | ature | CN | Nature | Syrinx (pan pipes) |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 12,
+      "markdown": "| Tyche, godd | ess of good fortune | N | Trickery | Red pentagram |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 13,
+      "markdown": "| Re-­‐Horakhty | , god of the sun, ruler of the gods | LG | Life, Light | Solar disk encircled by serpent |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 14,
+      "markdown": "| Apep, god of | evil, fire, and serpents | NE | Trickery | Flaming snake |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 15,
+      "markdown": "| Bes, god of l | uck and music | CN | Trickery | Image of the misshapen deity |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 16,
+      "markdown": "| Imhotep, go | d of crafts and medicine | NG | Knowledge | Step pyramid |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 17,
+      "markdown": "| Nephthys, g | oddess of death and grief | CG | Death | Horns around a lunar disk |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 18,
+      "markdown": "| Ptah, god of | crafts, knowledge, and secrets | LN | Knowledge | Bull |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 19,
+      "markdown": "| Sobek, god o | f water and crocodiles | LE | Nature, Tempest | Crocodile head with horns and plumes |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 20,
+      "markdown": "| Odin, god of | knowledge and war | NG | Knowledge, War | Watching blue eye |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 21,
+      "markdown": "| Balder, god | of beauty and poetry | NG | Life, Light | Gem-­‐encrusted silver chalice |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 361,
+      "table_index": 22,
+      "markdown": "| Frey, god of | fertility and the sun | NG | Life, Light | Ice-­‐blue greatsword |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 362,
+      "table_index": 1,
+      "markdown": "| Frigga, godd | ess of birth and fertility | N | Life, Light | Cat |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 362,
+      "table_index": 2,
+      "markdown": "| Hel, goddess | of the underworld | NE | Death | Womanʼs face, rotting on one side |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 362,
+      "table_index": 3,
+      "markdown": "| Loki, god of | thieves and trickery | CE | Trickery | Flame |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 362,
+      "table_index": 4,
+      "markdown": "| Odur, god of | light and the sun | CG | Light | Solar disk |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 362,
+      "table_index": 5,
+      "markdown": "| Skadi, god of | earth and mountains | N | Nature | Mountain peak |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 362,
+      "table_index": 6,
+      "markdown": "| Thor, god of | storms and thunder | CG | Tempest, War | Hammer |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 362,
+      "table_index": 7,
+      "markdown": "| Tyr, god of c | ourage and strategy | LN | Knowledge, War | Sword |\n| --- | --- | --- | --- | --- |\n"
+    },
+    {
+      "page": 378,
+      "table_index": 1,
+      "markdown": "| Variant: Diseased Giant Rats |\n| --- |\n| Some giant rats carry vile diseases that they spread with their |\n| bites. A diseased giant rat has a challenge rating of 1/8 (25 |\n| XP) and the following action instead of its normal bite attack. |\n| Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one |\n| target. Hit: 4 (1d4 + 2) piercing damage. If the target is a |\n| creature, it must succeed on a DC 10 Constitution saving |\n| throw or contract a disease. Until the disease is cured, the |\n| target can’t regain hit points except by magical means, and |\n| the target’s hit point maximum decreases by 3 (1d6) every 24 |\n| hours. If the target’s hit point maximum drops to 0 as a result |\n| of this disease, the target dies. |\n"
+    },
+    {
+      "page": 391,
+      "table_index": 1,
+      "markdown": "| Variant: Insect Swarms |\n| --- |\n| Different kinds of insects can gather in swarms, and each |\n| swarm has the special characteristics described below. |\n| Swarm of Beetles. A swarm of beetles gains a burrowing |\n| speed of 5 feet. |\n| Swarm of Centipedes. A creature reduced to 0 hit points |\n| by a swarm of centipedes is stable but poisoned for 1 hour, |\n| even after regaining hit points, and paralyzed while poisoned |\n| in this way. |\n| Swarm of Spiders. A swarm of spiders has the following |\n| additional traits. |\n| Spider Climb. The swarm can climb difficult surfaces, |\n| including upside down on ceilings, without needing to make |\n| an ability check. |\n| Web Sense. While in contact with a web, the swarm knows |\n| the exact location of any other creature in contact with the |\n| same web. |\n| Web Walker. The swarm ignores movement restrictions |\n| caused by webbing. |\n| Swarm of Wasps. A swarm of wasps has a walking speed |\n| of 5 feet, a flying speed of 30 feet, and no climbing speed. |\n"
+    }
+  ]
+}

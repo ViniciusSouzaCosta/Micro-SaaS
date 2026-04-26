@@ -1,6 +1,6 @@
 import streamlit as st
 
-from app.rag_pipeline import RAGPipeline
+from rag_pipeline import RAGPipeline
 
 
 st.set_page_config(
