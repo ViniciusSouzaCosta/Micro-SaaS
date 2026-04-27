@@ -11,8 +11,8 @@ COLLECTION_NAME = "grimorio_rpg"
 
 EMBEDDING_MODEL_NAME = "BAAI/bge-m3"
 
-# LLM_MODEL_NAME = "llama3.1:8b"
+LLM_MODEL_NAME = "llama3.1:8b"
 # LLM_MODEL_NAME = "llama3.2:3b"  
-LLM_MODEL_NAME = "qwen2.5:3b"
+# LLM_MODEL_NAME = "qwen2.5:3b"
 
 TOP_K = 5
