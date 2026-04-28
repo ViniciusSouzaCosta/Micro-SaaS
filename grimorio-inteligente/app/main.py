@@ -1,16 +1,26 @@
 import os
 import sys
 import base64
+import time
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import streamlit as st
 
 from app.rag_pipeline import RAGPipeline
+from app.config import LLM_MODEL_NAME
+from app.document_manager import save_uploaded_pdf, process_knowledge_base
 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BACKGROUND_IMAGE = os.path.join(BASE_DIR, "assets", "background.jpg")
+
+
+st.set_page_config(
+    page_title="Grimório Inteligente",
+    page_icon="📖",
+    layout="wide"
+)
 
 
 def image_to_base64(image_path):
@@ -153,6 +163,22 @@ def load_custom_css():
             line-height: 1.5;
         }}
 
+        .upload-box {{
+            background: rgba(28, 10, 10, 0.82);
+            border: 1px solid rgba(197, 154, 61, 0.7);
+            border-radius: 14px;
+            padding: 14px;
+            margin-top: 10px;
+            margin-bottom: 12px;
+        }}
+
+        .upload-box p {{
+            color: #f3e4c2;
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 0;
+        }}
+
         div[data-testid="stTextInput"] input {{
             background-color: rgba(18, 7, 7, 0.95);
             color: #f8edd2;
@@ -174,7 +200,13 @@ def load_custom_css():
             border-radius: 12px;
         }}
 
-        .stSlider label, .stTextInput label, .stSelectbox label {{
+        .stFileUploader {{
+            background: rgba(18, 7, 7, 0.72);
+            border-radius: 12px;
+            padding: 8px;
+        }}
+
+        .stTextInput label, .stSelectbox label, .stFileUploader label {{
             color: #f6d98b !important;
             font-weight: bold;
         }}
@@ -252,20 +284,21 @@ def load_custom_css():
     )
 
 
-@st.cache_resource
+@st.cache_resource(show_spinner="Carregando modelos... Isso pode levar alguns segundos na primeira vez.")
 def load_pipeline():
-    return RAGPipeline()
+    start = time.time()
+    loaded_pipeline = RAGPipeline()
+    end = time.time()
 
+    return loaded_pipeline
 
-st.set_page_config(
-    page_title="Grimório Inteligente",
-    page_icon="📖",
-    layout="wide"
-)
 
 load_custom_css()
 
+pipeline = load_pipeline()
+
 st.markdown("<h1 class='main-title'>📖 Grimório Inteligente</h1>", unsafe_allow_html=True)
+
 st.markdown(
     "<p class='subtitle'>Assistente RAG para mestres e jogadores de RPG de mesa</p>",
     unsafe_allow_html=True
@@ -311,18 +344,53 @@ with st.sidebar:
         ]
     )
 
-    top_k = st.slider(
-        "Quantidade de trechos recuperados",
-        min_value=1,
-        max_value=10,
-        value=5
-    )
+    top_k = 5
 
     st.markdown("---")
     st.markdown("### 🧠 Modelos")
-    st.markdown("**LLM:** `llama3.1:8b`")
+    st.markdown("**LLM:** `" + LLM_MODEL_NAME + "`")
     st.markdown("**Embeddings:** `BAAI/bge-m3`")
     st.markdown("**Banco vetorial:** `ChromaDB`")
+    st.markdown("**Referências recuperadas:** `5`")
+
+    st.markdown("---")
+    st.markdown("### 📕 Adicionar Grimório")
+
+    st.markdown(
+        """
+        <div class="upload-box">
+            <p>
+                Envie um novo arquivo PDF para adicionar regras, magias,
+                tabelas ou suplementos à base de conhecimento.
+            </p>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+    uploaded_pdf = st.file_uploader(
+        "Selecione um PDF de regras",
+        type=["pdf"]
+    )
+
+    if uploaded_pdf is not None:
+        st.info(f"Arquivo selecionado: {uploaded_pdf.name}")
+
+        if st.button("Adicionar ao Grimório"):
+            try:
+                with st.spinner("O Grimório está absorvendo o novo tomo..."):
+                    save_uploaded_pdf(uploaded_pdf)
+                    process_knowledge_base()
+
+                    load_pipeline.clear()
+                    pipeline = load_pipeline()
+
+                st.success("Grimório adicionado com sucesso!")
+                st.info("O novo PDF já está disponível para consulta.")
+
+            except Exception as e:
+                st.error("Erro ao adicionar o grimório.")
+                st.exception(e)
 
     st.markdown("---")
     st.markdown("### 📌 Dica")
@@ -353,12 +421,17 @@ if consult_button:
         st.warning("Digite uma pergunta antes de consultar.")
     else:
         with st.spinner("O Grimório está consultando os antigos tomos..."):
-            pipeline = load_pipeline()
+            start = time.time()
+
             result = pipeline.ask(
                 question=question,
                 category=category,
                 top_k=top_k
             )
+
+            end = time.time()
+
+            st.sidebar.info(f"⏱️ Consulta respondida em {end - start:.1f}s")
 
         st.session_state.history.append({
             "question": question,
