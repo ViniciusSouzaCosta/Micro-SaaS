@@ -519,25 +519,3 @@ Creative Commons Attribution 4.0 International
 Atribuição obrigatória mantida conforme documentação oficial.
 
 ---
-
-# 👨‍💻 Autores
-
-Projeto desenvolvido para a disciplina de **IA / Sistemas Inteligentes**.
-
-Integrantes:
-
-- Nome 1
-- Nome 2
-- Nome 3
-
----
-
-# 📌 Demonstração
-
-Durante a apresentação serão demonstrados:
-
-- ingestão do PDF
-- busca semântica
-- resposta em tempo real
-- fontes utilizadas
-- casos de falha
